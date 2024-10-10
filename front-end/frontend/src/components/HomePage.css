@@ -1,0 +1,20 @@
+/* src/components/HomePage.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
